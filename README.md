@@ -9,6 +9,7 @@ Replicate recirculating systems will be contructed for aquaculture of P. angulos
 
 Specific objectives of the study include: 
 - profiling the amount of dissolved and particulate byproducts from P. angulosus aquaculture, and also the nurtitional value of particulate byproducts
+- size class analysis of particulate byproducts from P. angulosus and A. loveni sediment particles
 - assess feeding (build up) and mineralizaion of particulate byproducts in A. loveni tanks throughout the study trial period  
 - monitor growth of U. lacinulate .................. 
 
